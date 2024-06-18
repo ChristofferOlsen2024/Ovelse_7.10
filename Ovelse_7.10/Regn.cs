@@ -9,11 +9,6 @@ namespace Ovelse_7._10
     internal class Regn
     {
         public string? Dag { get; set; }    // Mandag
-        public double Nedbør;               // 10,55mm
-
-        public class Vejr
-        {
-            SamletNedbør
-        }
+        public int Nedbor;               // 10,55mm
     }
 }
